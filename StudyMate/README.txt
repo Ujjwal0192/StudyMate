@@ -18,5 +18,4 @@ It allows you to add, view, complete, and delete tasks while also showing your o
 - main/Main.java          --> Menu and user interaction
 - data/tasks.txt          --> File to store task data
 
-🚀 HOW TO RUN:
-1. Compile the project:
+
